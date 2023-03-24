@@ -1,9 +1,7 @@
   * {
-        Box-content: cover;
+        Box-content: border-box;
         padding: 0;
         margin: 0;
-        right: 50%;
-        top: 40%;
         
     }
     
@@ -33,7 +31,7 @@
       justify-content: center;
       font-style: normal;
       font-family: Sans-serif;
-      font-size: 5px;
+      font-size: 75px;
       padding: 0.3%;
       margin: 1%;
       color: #212121;
@@ -44,7 +42,7 @@
       justify-content: center;
       font-style: normal;
       font-family: Sans-serif;
-      font-size: 5px;
+      font-size: 75px;
       padding: 0.3%;
       color: #212121;
   }
@@ -63,7 +61,7 @@
       justify-content: center;
       font-style: normal;
       font-family: Sans-serif;
-      font-size: 10px; 
+      font-size: 100px; 
       padding: 2%;
       color: #212121;
       position: absolute;

@@ -6,7 +6,7 @@
     }
     
   Body {
-        background-image: url('https://www.google.com/url?sa=i&url=https%3A%2F%2Fphonoteka.org%2F73093-belyj-fon-dlja-zuma.html&psig=AOvVaw1TJMHNxhyIuS6EZJeIb8_8&ust=1679750930768000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCOC00IDW9P0CFQAAAAAdAAAAABAO ');;
+        background-image: url('https://www.google.com/url?sa=i&url=https%3A%2F%2Fphonoteka.org%2F73093-belyj-fon-dlja-zuma.html&psig=AOvVaw1TJMHNxhyIuS6EZJeIb8_8&ust=1679750930768000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCOC00IDW9P0CFQAAAAAdAAAAABAO ');
         background-repeat: no-repeat;
         background-size: 100vh;
         background-position: cover;
@@ -48,18 +48,26 @@
   }
   
  .life {
+      top: 40%;
+      left: 40%;
+      justify-content: center;
       font-style: normal;
       font-family: Sans-serif;
-      font-size: 30px; 
+      font-size: 25px;
       padding: 0.3%;
+      margin: 1%;
       color: #212121;
  }
  
  .lif {
+      top: 40%;
+      left: 40%;
+      justify-content: center;
       font-style: normal;
       font-family: Sans-serif;
-      font-size: 30px; 
+      font-size: 25px;
       padding: 0.3%;
-      color: #212121;
+      margin: 1%;
+      color: #212121; 
  }
  

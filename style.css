@@ -48,26 +48,12 @@
   }
   
  .life {
-      top: 40%;
-      left: 40%;
-      justify-content: center;
-      font-style: normal;
-      font-family: Sans-serif;
       font-size: 35px;
-      padding: 0.3%;
-      margin: 1%;
       color: #212121;
  }
  
  .lif {
-      top: 40%;
-      left: 40%;
-      justify-content: center;
-      font-style: normal;
-      font-family: Sans-serif;
       font-size: 35px;
-      padding: 0.3%;
-      margin: 1%;
       color: #212121; 
  }
  

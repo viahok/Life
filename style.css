@@ -48,20 +48,18 @@
   }
   
  .life {
-      justify-content: center;
       font-style: normal;
       font-family: Sans-serif;
-      font-size: 50px; 
+      font-size: 30px; 
       padding: 2%;
       color: #212121;
       position: absolute;
  }
  
  .lif {
-      justify-content: center;
       font-style: normal;
       font-family: Sans-serif;
-      font-size: 50px; 
+      font-size: 30px; 
       padding: 2%;
       color: #212121;
       position: absolute;

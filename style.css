@@ -1,0 +1,71 @@
+  * {
+        Box-content: cover;
+        padding: 0;
+        margin: 0;
+        right: 50%;
+        top: 40%;
+        
+    }
+    
+  Body {
+        background-image: url('https://www.google.com/url?sa=i&url=https%3A%2F%2Fphonoteka.org%2F73093-belyj-fon-dlja-zuma.html&psig=AOvVaw1TJMHNxhyIuS6EZJeIb8_8&ust=1679750930768000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCOC00IDW9P0CFQAAAAAdAAAAABAO ');;
+        background-repeat: no-repeat;
+        background-size: 100vh;
+        background-position: cover;
+   
+   
+    }
+    
+  .head {
+        height: cover;
+        width: 10vh;
+        background-color: #1f1f1f;
+        word-spacing: 15px;
+    }
+   
+  A {
+       text-decoration: none;
+   }
+  
+  P {
+      top: 40%;
+      left: 40%;
+      justify-content: center;
+      font-style: normal;
+      font-family: Sans-serif;
+      font-size: 5px;
+      padding: 0.3%;
+      margin: 1%;
+      color: #212121;
+   } 
+  h1 {
+      top: 40%;
+      left: 40%;
+      justify-content: center;
+      font-style: normal;
+      font-family: Sans-serif;
+      font-size: 5px;
+      padding: 0.3%;
+      color: #212121;
+  }
+  
+ .life {
+      justify-content: center;
+      font-style: normal;
+      font-family: Sans-serif;
+      font-size: 10px; 
+      padding: 2%;
+      color: #212121;
+      position: absolute;
+ }
+ 
+ .lif {
+      justify-content: center;
+      font-style: normal;
+      font-family: Sans-serif;
+      font-size: 10px; 
+      padding: 2%;
+      color: #212121;
+      position: absolute;
+ }
+ 
